@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid #eaeaea;
+}
+
+.card-header {
+  font-weight: 500;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.loading-text,
+.error-text {
+  font-size: 16px;
+}
+
+.holiday-list {
+  list-style: none;
+  padding: 0;
+}
+
+.holiday-item {
+  margin-bottom: 8px;
+}
